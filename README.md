@@ -34,6 +34,6 @@
 ### 4번 문제 실행 화면
 <p align="center">
   <img width="31%" alt="4번 화면 1" src="https://github.com/user-attachments/assets/31331c7b-7d92-4601-a252-3ea99857dc1a" />
-  <img width="31%" alt="4번 화면 2" src="https://github.com/user-attachments/assets/86a5f770-f677-4048-b81b-52c63e6dc562" />
-  <img width="31%" alt="4번 화면 3" src="https://github.com/user-attachments/assets/2905fe40-e318-4bbf-8da1-5f03f44826d6" />
+  <img width="31%" alt="4번 화면 2" src="https://github.com/user-attachments/assets/5a1a2894-1be2-4895-80e8-701d5cfb73c0" />
+  <img width="31%" alt="4번 화면 3" src="https://github.com/user-attachments/assets/87197649-a97a-46db-a7a1-cd688471d0d4" />
 </p>
