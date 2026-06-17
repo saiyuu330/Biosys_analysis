@@ -18,15 +18,16 @@
 
 ### 2번 문제 실행 화면
 <p align="center">
-  <img width="80%" alt="2번 화면" src="https://github.com/user-attachments/assets/85bcd321-e4c2-4c03-8d44-c676c1c8f619" />
+  <img width="80%" alt="2번 화면" src="https://github.com/user-attachments/assets/76b38f9a-8314-418d-af8c-2e3bd840d9d2" />
 </p>
 
 ---
 
 ### 3번 문제 실행 화면
 <p align="center">
-  <img width="48%" alt="3번 화면 1" src="https://github.com/user-attachments/assets/1dedab13-1183-40c8-8f34-f861dc6ac3e2" />
-  <img width="48%" alt="3번 화면 2" src="https://github.com/user-attachments/assets/37496902-11e5-4bf0-8829-1cee2c4028c5" />
+  <img width="31%" alt="3번 화면 1" src="https://github.com/user-attachments/assets/1dedab13-1183-40c8-8f34-f861dc6ac3e2" />
+  <img width="31%" alt="3번 화면 2" src="https://github.com/user-attachments/assets/37496902-11e5-4bf0-8829-1cee2c4028c5" />
+  <img width="31%" alt="3번 화면 3" src="https://github.com/user-attachments/assets/b98f81e4-4839-486c-ba70-e12de420e645" />
 </p>
 
 ---
