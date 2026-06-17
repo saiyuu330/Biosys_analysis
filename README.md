@@ -18,7 +18,7 @@
 
 ### 2번 문제 실행 화면
 <p align="center">
-  <img width="80%" alt="2번 화면" src="https://github.com/user-attachments/assets/76b38f9a-8314-418d-af8c-2e3bd840d9d2" />
+  <img width="100%" alt="2번 화면" src="https://github.com/user-attachments/assets/76b38f9a-8314-418d-af8c-2e3bd840d9d2" />
 </p>
 
 ---
